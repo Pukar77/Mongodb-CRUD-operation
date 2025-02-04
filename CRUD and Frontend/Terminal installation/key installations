@@ -1,2 +1,4 @@
 npm init -y
 npm i mongoose
+npm i express
+npm i nodemon
